@@ -1,7 +1,7 @@
 # Amazing_Pose_Estimate_V2
 CPU Real-time Amazing Pose Estimate V2
 # FIND CODE  
-https://blog.csdn.net/samylee/article/details/112056728  
+https://blog.csdn.net/samylee/article/details/117747309  
 # Test steps
 ## step1
 Download 'third_part dll' and put it to current directory. [BaiDu Cloud](https://pan.baidu.com/s/1XbvPhLLrjZz3Ll-QbKbUkw) Password: oxvo 
