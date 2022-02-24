@@ -30,3 +30,6 @@ or:    AmazingPoseEstimateV2.exe 1 0 video 0  (for usbcam)
 ![](save_imgs/3.jpg)  
 # Reference
 https://blog.csdn.net/samylee
+
+# Find Source Code ( 998RMB )
+点亮右上角的小星星，立减100RMB
